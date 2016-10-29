@@ -3,6 +3,7 @@ Convenience POM to include most [PragmaticKM Password](https://pragmatickm.com/p
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/password/all/)
+* [Changelog](https://pragmatickm.com/password/all/changelog)
 * [Maven Repository](scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm)
 * [Git](ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password-all)
 
