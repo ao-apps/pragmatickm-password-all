@@ -54,8 +54,8 @@ along with pragmatickm-password-all.  If not, see <http://www.gnu.org/licenses /
 				scmUrl="@{documented.scm.url}"
 			>
 				<ul>
-					<li>Updated version of <core:link book="/password/servlet" page="/index.jspx" />.</li>
-					<li>Updated version of <core:link book="/password/taglib" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/password/servlet" page="/" />.</li>
+					<li>Updated version of <core:link book="/password/taglib" page="/" />.</li>
 				</ul>
 			</changelog:release>
 		</c:if>
