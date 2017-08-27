@@ -37,7 +37,7 @@ along with pragmatickm-password-all.  If not, see <http://www.gnu.org/licenses /
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2017-07-25T16:09:02-0500"
-		dateModified="2017-07-31T21:56:55-0500"
+		dateModified="2017-08-27T15:51:40-0500"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.pragmatickm:pragmatickm-password-all:pom.version}" />
@@ -55,7 +55,10 @@ along with pragmatickm-password-all.  If not, see <http://www.gnu.org/licenses /
 			>
 				<ul>
 					<li>Updated version of <core:link book="/password/servlet" page="/" />.</li>
+					<li>Updated version of <core:link book="/password/style" page="/" />.</li>
 					<li>Updated version of <core:link book="/password/taglib" page="/" />.</li>
+					<li>Updated version of <core:link book="/password/view" page="/" />.</li>
+					<li>New module <core:link book="/password/renderer/html" page="/" />.</li>
 				</ul>
 			</changelog:release>
 		</c:if>

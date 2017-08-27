@@ -34,6 +34,7 @@ Convenience POM to include most [PragmaticKM Password](https://pragmatickm.com/p
 
 ## Modules Included
 * [PragmaticKM Password Model](https://pragmatickm.com/password/model/)
+* [PragmaticKM Password Renderer HTML](https://pragmatickm.com/password/renderer/html/)
 * [PragmaticKM Password Servlet](https://pragmatickm.com/password/servlet/)
 * [PragmaticKM Password Style](https://pragmatickm.com/password/style/)
 * [PragmaticKM Password Taglib](https://pragmatickm.com/password/taglib/)
