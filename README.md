@@ -1,4 +1,4 @@
-# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [PragmaticKM](https://pragmatickm.com/) / [Password](https://pragmatickm.com/password/) / [All](https://pragmatickm.com/password/all/)
+# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/aoindustries) [PragmaticKM](https://github.com/aoindustries/pragmatickm) / [Password](https://github.com/aoindustries/pragmatickm-password) / [All](https://github.com/aoindustries/pragmatickm-password-all)
 <p>
 	<a href="https://aoindustries.com/life-cycle#project-current-stable">
 		<img src="https://pragmatickm.com/ao-badges/project-current-stable.svg" alt="project: current stable" />
@@ -24,7 +24,7 @@
 	</a>
 </p>
 
-Convenience POM to include most [PragmaticKM Password](https://pragmatickm.com/password/) features, not including documentation or examples.
+Convenience POM to include most [PragmaticKM Password](https://github.com/aoindustries/pragmatickm-password) features, not including documentation or examples.
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/password/all/)
@@ -33,12 +33,12 @@ Convenience POM to include most [PragmaticKM Password](https://pragmatickm.com/p
 * [GitHub](https://github.com/aoindustries/pragmatickm-password-all)
 
 ## Modules Included
-* [PragmaticKM Password Model](https://pragmatickm.com/password/model/)
-* [PragmaticKM Password Renderer HTML](https://pragmatickm.com/password/renderer/html/)
-* [PragmaticKM Password Servlet](https://pragmatickm.com/password/servlet/)
-* [PragmaticKM Password Style](https://pragmatickm.com/password/style/)
-* [PragmaticKM Password Taglib](https://pragmatickm.com/password/taglib/)
-* [PragmaticKM Password View](https://pragmatickm.com/password/view/)
+* [PragmaticKM Password Model](https://github.com/aoindustries/pragmatickm-password-model)
+* [PragmaticKM Password Renderer HTML](https://github.com/aoindustries/pragmatickm-password-renderer-html)
+* [PragmaticKM Password Servlet](https://github.com/aoindustries/pragmatickm-password-servlet)
+* [PragmaticKM Password Style](https://github.com/aoindustries/pragmatickm-password-style)
+* [PragmaticKM Password Taglib](https://github.com/aoindustries/pragmatickm-password-taglib)
+* [PragmaticKM Password View](https://github.com/aoindustries/pragmatickm-password-view)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):
