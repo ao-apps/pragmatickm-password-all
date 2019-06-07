@@ -37,7 +37,7 @@ along with pragmatickm-password-all.  If not, see <http://www.gnu.org/licenses /
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2017-07-25T16:09:02-0500"
-		dateModified="2018-05-30T19:48:33-0500"
+		dateModified="2019-06-06T20:07:37-0500"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.pragmatickm:pragmatickm-password-all:pom.version}" />
@@ -54,12 +54,13 @@ along with pragmatickm-password-all.  If not, see <http://www.gnu.org/licenses /
 				scmUrl="@{documented.scm.url}"
 			>
 				<ul>
-					<li>Updated version of <core:link book="/password/model" page="/" />.</li>
-					<li>Updated version of <core:link book="/password/servlet" page="/" />.</li>
-					<li>Updated version of <core:link book="/password/style" page="/" />.</li>
-					<li>Updated version of <core:link book="/password/taglib" page="/" />.</li>
-					<li>Updated version of <core:link book="/password/view" page="/" />.</li>
 					<li>New module <core:link book="/password/renderer/html" page="/" />.</li>
+					<li>Using managed dependencies:
+						<ol>
+							<li>This project uses transitive managed dependencies.</li>
+							<li>This project's managed dependencies may also be imported by other projects.</li>
+						</ol>
+					</li>
 				</ul>
 			</changelog:release>
 		</c:if>
