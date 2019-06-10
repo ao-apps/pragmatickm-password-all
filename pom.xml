@@ -46,7 +46,6 @@ along with pragmatickm-password-all.  If not, see <http://www.gnu.org/licenses /
 	</scm>
 
 	<dependencyManagement>
-		<!-- TODO: pragmatickm-password-bom -->
 		<dependencies>
 			<dependency>
 				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-model</artifactId><version>1.3.5-SNAPSHOT</version>
