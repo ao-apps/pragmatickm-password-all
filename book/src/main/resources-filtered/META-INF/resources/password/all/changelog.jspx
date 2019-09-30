@@ -53,10 +53,10 @@ along with pragmatickm-password-all.  If not, see <http://www.gnu.org/licenses /
 				scmUrl="@{documented.scm.url}"
 			>
 				<ul>
-					<li>Updated version of <code:link book="/password/model" page="/index.jspx" />.</li>
-					<li>Updated version of <code:link book="/password/servlet" page="/index.jspx" />.</li>
-					<li>Updated version of <code:link book="/password/taglib" page="/index.jspx" />.</li>
-					<li>Updated version of <code:link book="/password/view" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/password/model" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/password/servlet" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/password/taglib" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/password/view" page="/index.jspx" />.</li>
 				</ul>
 			</changelog:release>
 		</c:if>
