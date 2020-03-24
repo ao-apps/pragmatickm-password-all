@@ -29,7 +29,7 @@ Convenience POM to include most [PragmaticKM Password](https://github.com/aoindu
 ## Project Links
 * [Project Home](https://pragmatickm.com/password/all/)
 * [Changelog](https://pragmatickm.com/password/all/changelog)
-* [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.pragmatickm%22%20AND%20a:%22pragmatickm-password-all%22)
+* [Maven Central Repository](https://search.maven.org/artifact/com.pragmatickm/pragmatickm-password-all)
 * [GitHub](https://github.com/aoindustries/pragmatickm-password-all)
 
 ## Modules Included
