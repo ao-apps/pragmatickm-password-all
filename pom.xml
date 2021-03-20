@@ -29,7 +29,7 @@ along with pragmatickm-password-all.  If not, see <http://www.gnu.org/licenses /
 		<relativePath>../../parent/pom.xml</relativePath>
 	</parent>
 
-	<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-all</artifactId><version>1.5.2-SNAPSHOT</version>
+	<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-all</artifactId><version>1.5.2</version>
 	<packaging>pom</packaging>
 
 	<name>PragmaticKM Password All</name>
@@ -64,7 +64,7 @@ along with pragmatickm-password-all.  If not, see <http://www.gnu.org/licenses /
 		<connection>scm:git:git://github.com/aoindustries/pragmatickm-password-all.git</connection>
 		<developerConnection>scm:git:git@github.com:aoindustries/pragmatickm-password-all.git</developerConnection>
 		<url>https://github.com/aoindustries/pragmatickm-password-all</url>
-		<tag>HEAD</tag>
+		<tag>pragmatickm-password-all-1.5.2</tag>
 	</scm>
 
 	<issueManagement>
