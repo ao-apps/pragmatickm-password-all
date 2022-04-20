@@ -1,6 +1,6 @@
 /*
  * pragmatickm-password-all - Convenience POM to include most PragmaticKM Password features, not including documentation or examples.
- * Copyright (C) 2021  AO Industries, Inc.
+ * Copyright (C) 2021, 2022  AO Industries, Inc.
  *     support@aoindustries.com
  *     7262 Bull Pen Cir
  *     Mobile, AL 36695
@@ -21,8 +21,8 @@
  * along with pragmatickm-password-all.  If not, see <https://www.gnu.org/licenses/>.
  */
 module com.pragmatickm.password.all {
-	// Direct
-	requires transitive com.pragmatickm.password.model; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-model</artifactId>
-	requires transitive com.pragmatickm.password.servlet; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-servlet</artifactId>
-	requires transitive com.pragmatickm.password.taglib; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-taglib</artifactId>
+  // Direct
+  requires transitive com.pragmatickm.password.model; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-model</artifactId>
+  requires transitive com.pragmatickm.password.servlet; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-servlet</artifactId>
+  requires transitive com.pragmatickm.password.taglib; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-taglib</artifactId>
 }
