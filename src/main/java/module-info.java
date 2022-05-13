@@ -25,4 +25,4 @@ module com.pragmatickm.password.all {
   requires transitive com.pragmatickm.password.model; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-model</artifactId>
   requires transitive com.pragmatickm.password.servlet; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-servlet</artifactId>
   requires transitive com.pragmatickm.password.taglib; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-taglib</artifactId>
-} // TODO: Avoiding rewrite-maven-plugin-4.22.2 truncation
+}
