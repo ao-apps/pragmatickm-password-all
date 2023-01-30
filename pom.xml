@@ -112,9 +112,10 @@ along with pragmatickm-password-all.  If not, see <https://www.gnu.org/licenses/
         <groupId>org.apache.maven.plugins</groupId><artifactId>maven-dependency-plugin</artifactId>
         <configuration>
           <usedDependencies>
-            <!-- Direct -->
-            <dependency>com.pragmatickm:pragmatickm-password-servlet</dependency><!-- Required for module-info.java -->
-            <dependency>com.pragmatickm:pragmatickm-password-taglib</dependency><!-- Required for module-info.java -->
+            <!-- Required for module-info.java -->
+            <dependency>com.pragmatickm:pragmatickm-password-model</dependency>
+            <dependency>com.pragmatickm:pragmatickm-password-servlet</dependency>
+            <dependency>com.pragmatickm:pragmatickm-password-taglib</dependency>
             <!-- Runtime Direct -->
             <dependency>com.pragmatickm:pragmatickm-password-style</dependency>
             <dependency>com.pragmatickm:pragmatickm-password-view</dependency>
