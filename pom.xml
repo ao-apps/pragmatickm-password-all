@@ -30,7 +30,7 @@ along with pragmatickm-password-all.  If not, see <https://www.gnu.org/licenses/
   </parent>
 
   <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-password-all</artifactId><version>1.6.2-POST-SNAPSHOT</version>
-  <packaging>bundle</packaging>
+  <packaging>jar</packaging>
 
   <properties>
     <module.name>com.pragmatickm.password.all</module.name>
