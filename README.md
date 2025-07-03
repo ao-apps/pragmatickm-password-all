@@ -21,7 +21,7 @@ Convenience POM to include most [PragmaticKM Password](https://github.com/ao-app
 ## Project Links
 * [Project Home](https://pragmatickm.com/password/all/)
 * [Changelog](https://pragmatickm.com/password/all/changelog)
-* [Maven Central Repository](https://central.sonatype.com/artifact/com.pragmatickm/pragmatickm-password-all)
+* [Central Repository](https://central.sonatype.com/artifact/com.pragmatickm/pragmatickm-password-all)
 * [GitHub](https://github.com/ao-apps/pragmatickm-password-all)
 
 ## Modules Included
